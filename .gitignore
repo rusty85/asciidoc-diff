@@ -66,6 +66,8 @@ replay_pid*
 *.iml
 *.ipr
 
+runConfigurations.xml
+
 # CMake
 cmake-build-*/
 
