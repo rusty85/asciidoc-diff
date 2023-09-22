@@ -10,8 +10,8 @@
 |===
 
 |Name: |Peter Pan
-|Address: |Neverland, Second Star to the Left
-|Email: |peter.pan@neverland.com
+|Address: |Neverland, Second Star to the Right
+|Email: |peter.pan@neverland.org
 |Phone: |(123) 456-7890
 
 |===
@@ -21,8 +21,7 @@
 
 '''
 
-Energetic and free-spirited leader seeking a dynamic position that harnesses my strengths in adventure, team leadership, and aerial acrobatics.
-Passionate about maintaining the magic of youth and creating unforgettable memories.
+Energetic and free-spirited leader seeking a dynamic position that harnesses my strengths in adventure, team leadership, and aerial acrobatics. Passionate about maintaining the magic of youth and creating unforgettable memories.
 
 [#experience]
 === Experience:
@@ -30,7 +29,7 @@ Passionate about maintaining the magic of youth and creating unforgettable memor
 [cols="2,3a",frame=none, grid=none]
 |===
 
-|**Leader of the Lost Boys** |Neverland - From time immemorial
+|**Leader of the Lost Boys** | Neverland - From time immemorial
 
 * Organized and led a diverse group of young adventurers in daily activities and missions.
 * Developed strategic defense plans against Captain Hook and his crew.
