@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>de.rusty</groupId>
+    <artifactId>asciidoc-diff-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>0.0.1</version>
+    <name>Asciidoc Diff Parent</name>
+    <description>
+        The AsciiDoc extension provides functionality to visually emphasize changes within a document. Using
+        predefined patterns, the extension detects modifications and applies distinct formatting to highlight them,
+        aiding readers in quickly identifying new or altered content.
+    </description>
+
+    <modules>
+        <module>asciidoc-diff-extension</module>
+        <module>asciidoc-diff-example</module>
+    </modules>
+
+    <properties>
+        <asciidoctorj.pdf.version>2.3.9</asciidoctorj.pdf.version>
+        <jruby.version>9.4.2.0</jruby.version>
+        <asciidoctorj.version>2.5.10</asciidoctorj.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
+</project>
