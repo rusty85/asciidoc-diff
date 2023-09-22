@@ -1,0 +1,2 @@
+# File: src/main/resources/META-INF/services/org.asciidoctor.extension.spi.ExtensionRegistry
+de.rusty.server.template.extension.DocumentDiffExtension

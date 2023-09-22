@@ -1,0 +1,2 @@
+# File: src/main/resources/META-INF/services/org.asciidoctor.jruby.extension.spi.ExtensionRegistry
+de.rusty.server.template.extension.DocumentDiffExtension
