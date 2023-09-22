@@ -1,0 +1,40 @@
+extends: default
+
+role:
+  highlight:
+    font_color: c70039
+    background_color: ffff8f
+
+base:
+  font_color: 333333
+  font-size: 11
+  line_height_length: 13
+  line_height: $base_line_height_length / $base_font_size
+  font-size-large: $base-font-size * 1.25
+  font-size-small: $base-font-size * 0.85
+
+heading:
+  align: left
+  font_color: $base_font_color
+  font_style: bold
+  h2_align: center
+  h2_font_size: round($base_font_size * 1.5)
+  h3_font_color: 003064
+  h3_font_size: round($base_font_size * 0.9)
+  h3_margin_top: $vertical_rhythm * 0.5
+  h3_margin_bottom: $vertical_rhythm * 0.2
+  h3_min_height_after: $base_line_height_length
+  line_height: 1
+  margin_top: $vertical_rhythm * 0.4
+  margin_bottom: $vertical_rhythm * 0.9
+  min_height_after: $base_line_height_length * 1.5
+
+table:
+  font-size: 10
+
+thematic_break:
+  border_color: cccccc
+  border_style: solid
+  border_width: $base_border_width
+  margin_top: $vertical_rhythm * 0.3
+  margin_bottom: $vertical_rhythm * 0.5
