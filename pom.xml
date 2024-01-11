@@ -21,7 +21,7 @@
     </modules>
 
     <properties>
-        <asciidoctorj.pdf.version>2.3.9</asciidoctorj.pdf.version>
+        <asciidoctorj.pdf.version>2.3.10</asciidoctorj.pdf.version>
         <jruby.version>9.4.2.0</jruby.version>
         <asciidoctorj.version>2.5.10</asciidoctorj.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
